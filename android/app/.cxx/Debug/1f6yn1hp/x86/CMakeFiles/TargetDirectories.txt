@@ -1,0 +1,2 @@
+C:/Users/Globally-04/Desktop/practice_firebase_googlesignin/android/app/.cxx/Debug/1f6yn1hp/x86/CMakeFiles/edit_cache.dir
+C:/Users/Globally-04/Desktop/practice_firebase_googlesignin/android/app/.cxx/Debug/1f6yn1hp/x86/CMakeFiles/rebuild_cache.dir
